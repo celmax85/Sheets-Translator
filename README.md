@@ -1,5 +1,4 @@
-# Sheets Translator
-
+# Sheets Translator ![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)[![](https://img.shields.io/badge/Autor-Celmax-blue)](https://celmax.dev)[![](https://img.shields.io/badge/Github-Celmax-red)](https://github.com/celmax85)
 Sheets Translator is a program for translating your spreadsheet files into a multitude of languages quickly and easily.
 
 ## Installation
