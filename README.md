@@ -21,7 +21,7 @@ First you need to fill in the spreadsheet file with which you want to translate:
 After filling in the required file, dn your command terminal write the following command in the folder:
 
 ``` bash 
-python translate.py 
+python translator.py 
 ```
 You can choose the translation module you want from the following:
 
